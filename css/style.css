@@ -1,0 +1,152 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+   
+width: 100%;
+float: left;
+background:url(../img/bac.jpg);
+
+}
+
+.container {
+
+	 width: 100%;
+	 float: left;
+	 
+}
+
+header {
+
+width: 100%;
+
+float: left;
+}
+.one{
+
+width: 50%;
+
+float: left;
+
+margin: 50px 25px;
+
+font-family: 'Roboto', sans-serif;
+}
+.text{
+
+width: 100%;
+
+float: left;
+
+margin: 130px 50px;
+}
+
+.text h1{color: #fff;text-transform: uppercase;line-height: 40px;padding-bottom: 15px;}
+.text p{
+	
+color: #fff;
+	
+padding-bottom: 10px;
+}
+
+.fa.fa-check-circle-o{
+
+width: 100%;
+
+float: left;
+
+color: #fff;
+
+padding: 4px 0px;
+
+text-transform: capitalize;
+}
+
+
+.btn{
+  margin: 65px 0px;
+  padding: 6px 10px;
+  display: block;
+  background: bisque;
+  color: black;
+  font-size: 16px;
+}
+
+.two{
+	
+width: 30%;
+	
+float: left;
+	
+padding: 0px 105px;
+}
+
+.login{
+
+width: 85%;
+
+float: left;
+
+background: aqua;
+
+text-align: center;
+
+padding: 15px 0px;
+
+margin: 130px 50px;
+}
+
+.login h1 {
+    
+    margin: 0px auto;
+    width: 130px;
+    padding: 5px;
+
+
+    }
+ .login p {
+
+ }   
+
+form{
+
+}
+
+.form-controlo{
+
+width: 65%;
+
+margin: 5px auto;
+
+padding: 10px;
+}
+.form-controloo{
+
+width: 27.5%;
+
+padding: 10px;
+
+margin: 10px auto;
+}
+.form-control{
+
+    
+    width: 90%;
+    padding: 10px;
+    margin: 10px auto;
+
+}
+
+.form-control{
+
+width: 65%;
+
+padding: 10px;
+
+margin: 5px auto;
+}
+
+
+.btnb{margin: 15px 0px;padding: 8px 25px;background: #673BB7;color: #fff;}
